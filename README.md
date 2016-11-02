@@ -41,4 +41,4 @@ ___________________________________________
 2. Use
 
 ....
-1. Github hook
+1. Github hook, dev and master
